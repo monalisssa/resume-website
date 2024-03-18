@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume-website/static/css/main.059e846f.css",
+    "main.js": "/resume-website/static/js/main.f0099847.js",
+    "static/media/weather_app_project.png": "/resume-website/static/media/weather_app_project.f79066130e9249d81e93.png",
+    "static/media/asianhouse_project.png": "/resume-website/static/media/asianhouse_project.d4bdebed1d06a31fb056.png",
+    "static/media/about_img.png": "/resume-website/static/media/about_img.bbeed44c7f76018ac3e9.png",
+    "static/media/weather-app.png": "/resume-website/static/media/weather-app.5a1dbd9b25ed6a8b365e.png",
+    "static/media/asianhouse_project_card.png": "/resume-website/static/media/asianhouse_project_card.09e9b9a01857533a2cb9.png",
+    "static/media/converter_image.png": "/resume-website/static/media/converter_image.2152c74e765ba42ee878.png",
+    "static/media/music_app.png": "/resume-website/static/media/music_app.c80d9ceb207a8ce7f453.png",
+    "static/media/stickers_app.png": "/resume-website/static/media/stickers_app.5607e63bae20517a60cc.png",
+    "static/media/stickers_project.png": "/resume-website/static/media/stickers_project.56a9fb8c0edd7e6ecd96.png",
+    "static/media/music_app_image.png": "/resume-website/static/media/music_app_image.275578a2d1b0a397f7fc.png",
+    "static/media/background.jpg": "/resume-website/static/media/background.f5b8591cffd9ea7ba15c.jpg",
+    "static/media/converter_project.png": "/resume-website/static/media/converter_project.1409944de181fea180dd.png",
+    "static/media/IndieFlower-Regular.ttf": "/resume-website/static/media/IndieFlower-Regular.599d26584b9afc1d20b1.ttf",
+    "static/media/logo.png": "/resume-website/static/media/logo.6e96a14f1b4084634084.png",
+    "index.html": "/resume-website/index.html",
+    "main.059e846f.css.map": "/resume-website/static/css/main.059e846f.css.map",
+    "main.f0099847.js.map": "/resume-website/static/js/main.f0099847.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059e846f.css",
+    "static/js/main.f0099847.js"
+  ]
+}
