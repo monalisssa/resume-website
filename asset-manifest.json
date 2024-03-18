@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resume-website/static/css/main.9fc4f71a.css",
-    "main.js": "/resume-website/static/js/main.9504d1b0.js",
+    "main.js": "/resume-website/static/js/main.fac3d145.js",
     "static/media/weather_app_project.png": "/resume-website/static/media/weather_app_project.f79066130e9249d81e93.png",
     "static/media/asianhouse_project.png": "/resume-website/static/media/asianhouse_project.d4bdebed1d06a31fb056.png",
     "static/media/about_img.png": "/resume-website/static/media/about_img.bbeed44c7f76018ac3e9.png",
@@ -18,10 +18,10 @@
     "static/media/logo.png": "/resume-website/static/media/logo.6e96a14f1b4084634084.png",
     "index.html": "/resume-website/index.html",
     "main.9fc4f71a.css.map": "/resume-website/static/css/main.9fc4f71a.css.map",
-    "main.9504d1b0.js.map": "/resume-website/static/js/main.9504d1b0.js.map"
+    "main.fac3d145.js.map": "/resume-website/static/js/main.fac3d145.js.map"
   },
   "entrypoints": [
     "static/css/main.9fc4f71a.css",
-    "static/js/main.9504d1b0.js"
+    "static/js/main.fac3d145.js"
   ]
 }
